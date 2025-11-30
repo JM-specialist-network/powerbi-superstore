@@ -77,34 +77,42 @@ El informe final incluye varias páginas, por ejemplo:
 > El archivo `.pbix` original no se almacena en este repositorio porque supera los límites de tamaño recomendados por GitHub. Puede compartirse de forma privada bajo petición. 
 ---
 
-## 📸 Screenshots / Capturas
 
 ## 📸 Screenshots / Capturas
 
-![Dashboard overview variant](images/Captura de pantalla 2025-05-12 192408.png)
+![Dashboard overview](images/Cap1.png)
 
-![Regional map view](images/Captura de pantalla 2025-05-12 200153.png)
+![Regional analysis](images/Cap2.png)
 
-![Returns by product & region](images/Captura de pantalla 2025-05-12 200216.png)
+![Distribution analysis](images/Cap3.png)
 
-![SuperStore global KPIs](images/Captura de pantalla 2025-05-12 201053.png)
+![Ranking customers & products](images/Cap4.png)
 
+![Returns & quality](images/Cap5.png)
+
+En las anteriores capturas podemos visualizar distintos gráficos y medidas para un dataset de la empresa, enfocadas en el mercado del Cánada.
+
+![Regional map view](images/Cap8.png)
+
+![Returns by product & region](images/Cap9.png)
+
+![SuperStore global KPIs](images/Cap10.png)
+
+Aquí visualizamod varias capturas, de un dashboard de control más global de la compañía, integrando una visualización más estética y acorde.
 
 ---
 
 ## 🚀 How to use / Cómo usar
 
-1. Open `reports/SuperStore2025_caso_final_informe.pdf` to review the full report.  
-2. Browse the screenshots in the `images/` folder to see individual views of the dashboard.  
-3. Request the `.pbix` file if you need to inspect the full data model and DAX measures.
-
-1. Abre `reports/SuperStore2025_caso_final_informe.pdf` para revisar el informe completo.  
-2. Recorre las capturas en la carpeta `images/` para ver las distintas vistas del dashboard.  
-3. Solicita el archivo `.pbix` si necesitas analizar el modelo de datos completo y las medidas DAX.
+1. Open `reports/SuperStore2025_caso_final_informe.pdf` to review the full report. | Abre `reports/SuperStore2025_caso_final_informe.pdf` para revisar el informe completo. 
+2. Browse the screenshots in the `images/` folder to see individual views of the dashboard.  | Recorre las capturas en la carpeta `images/` para ver las distintas vistas del dashboard.  
+3. Request the `.pbix` file if you need to inspect the full data model and DAX measures.  |  Solicitame el archivo `.pbix` si necesitas analizar el modelo de datos completo y las medidas DAX.
 
 ---
 
 ## 👤 Author / Autor
+
+Como comentario del creador, indicar que este fue mi segundo trabajo con Power BI, donde pude profundizar los conceptos de la visualización, y la teoría de la imagen y la forma.
 
 Created by **Jose Miguel Artiles** – Data Scientist & Economist‑in‑training.  
 
