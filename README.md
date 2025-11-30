@@ -79,10 +79,16 @@ El informe final incluye varias páginas, por ejemplo:
 
 ## 📸 Screenshots / Capturas
 
+## 📸 Screenshots / Capturas
+
 ![Dashboard overview variant](images/Captura de pantalla 2025-05-12 192408.png)
+
 ![Regional map view](images/Captura de pantalla 2025-05-12 200153.png)
+
 ![Returns by product & region](images/Captura de pantalla 2025-05-12 200216.png)
+
 ![SuperStore global KPIs](images/Captura de pantalla 2025-05-12 201053.png)
+
 
 ---
 
